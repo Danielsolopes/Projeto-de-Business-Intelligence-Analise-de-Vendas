@@ -1,0 +1,40 @@
+# 📊 Projeto de Business Intelligence — Análise de Vendas
+
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
+![BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Database](https://img.shields.io/badge/Database-SQL%20Server-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+> Projeto de Business Intelligence voltado para a área comercial, com foco em **previsibilidade de vendas**, **otimização de resultados** e **suporte à tomada de decisão estratégica**.
+
+🔗 **[Acessar Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDEyNmM2NzktNjY3Ny00ODIyLTk5NGMtZTQwM2Y4ZWI1Mzg5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
+
+---
+
+## 🎯 Sobre o Projeto
+
+Este projeto tem como objetivo estruturar uma solução completa de **Business Intelligence** para análise de performance de vendas, permitindo:
+
+- 📈 Maior **previsibilidade** de faturamento
+- ⏱️ **Otimização** de tempo e resultados
+- 🏆 Melhoria da **performance** do time de vendas
+- 🎯 Campanhas mais **assertivas** com base em dados
+- 📊 **Visibilidade** por gerente, supervisor e categoria
+
+---
+
+## 📸 Preview do Dashboard
+
+[![Abrir Dashboard no Power BI](https://img.shields.io/badge/📊_Acessar_Dashboard-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDEyNmM2NzktNjY3Ny00ODIyLTk5NGMtZTQwM2Y4ZWI1Mzg5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+> 👆 Clique no botão acima para explorar o dashboard interativo no Power BI.
+
+### 📊 Análises disponíveis
+
+- 📈 Faturamento total e evolução temporal
+- 🎯 Acompanhamento de metas por gerente e categoria
+- 🏆 Ranking de performance (supervisor e gerente)
+- 🛒 Top produtos por resultado
+- 📊 Ticket médio e quantidade de vendas
+
+---
