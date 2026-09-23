@@ -1,0 +1,1 @@
+docs/entendimento-negocio.md
