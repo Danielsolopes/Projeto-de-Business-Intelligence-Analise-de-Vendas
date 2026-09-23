@@ -65,3 +65,5 @@ Documentação das tabelas e campos utilizados no projeto de BI.
 | **Quantidade de Vendas** | COUNT(id_venda) |
 | **Ticket Médio** | Faturamento / Quantidade de Vendas |
 | **% Atingimento de Meta** | (Faturamento / Meta) * 100 |
+
+Documentação das tabelas e campos utilizados no projeto de BI.
