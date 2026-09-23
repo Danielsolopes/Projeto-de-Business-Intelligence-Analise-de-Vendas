@@ -104,3 +104,10 @@ ETL: Metodologia ESI
 Visualização: Power BI
 
 Documentação: Canvas, Bus Matrix, Checklist de Qualidade
+
+
+## 📸 Preview do Dashboard
+
+[![Abrir Dashboard no Power BI](https://img.shields.io/badge/📊_Acessar_Dashboard-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDEyNmM2NzktNjY3Ny00ODIyLTk5NGMtZTQwM2Y4ZWI1Mzg5IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+> Dashboard interativo com análises de faturamento, metas, performance por gerente e top produtos.
